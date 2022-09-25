@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/foreground.xml" value="0.173" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/ic_baseline_my_location_24.xml" value="0.1" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/main_bg.xml" value="0.1" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/main_rounded_button.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/round_btn2.xml" value="0.1" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable-v24/rounded_button.xml" value="0.173" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/containers_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/delete_btn_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/divider_drawable.xml" value="0.121" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/edit_btn_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/edit_details_btn.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/main_activity_fg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/new_design_btn_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/profile_img_bg.xml" value="0.1" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/profile_photo_circle.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/rounded_container.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/drawable/save_btn_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_edit_user_data.xml" value="0.264" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_edit_user_details.xml" value="0.264" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_new_design.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_sign_up_sample1.xml" value="0.264" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/new_design_btn_bg.xml" value="0.25" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/new_edit_user_details.xml" value="0.2" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/layout/new_profile.xml" value="0.2" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1775" />
+        <entry key="..\:/Users/MEDO/YemenSolutionTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1775" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

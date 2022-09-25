@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yemen Solution Test</string>
+
+
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="user_name_hint">user name</string>
+    <string name="Terms">By signing up you agree to our <u><b>Terms of Use</b></u>\n and <u><b>Privacy Policy</b></u></string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="or_sign_up_with_another_account">or<b> sign up</b>  with another account</string>
+</resources>
